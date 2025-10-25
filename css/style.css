@@ -452,3 +452,18 @@
           padding: 50px 0;
         }
       }
+
+
+/* Mobile-specific gallery height */
+@media (max-width: 768px) {
+    .gallery-item {
+        height: 250px !important; 
+    }
+}
+
+/* For very small screens */
+@media (max-width: 576px) {
+    .gallery-item {
+        height: 200px !important; 
+    }
+}

@@ -453,6 +453,10 @@
         }
       }
 
+      .whatsapp{
+        text-decoration: underline;
+        color: white;
+      }
 .social-media {
   text-align: right;
 }
